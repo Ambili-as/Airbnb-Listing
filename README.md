@@ -1,1 +1,2 @@
-# Airbnb-Listing
+Airbnb is a company that provides an online platform for accommodation to guests , travelers and tourists. It provides different varieties of rooms and homestays which are hosted by various people registered with Airbnb properties. These rental properties include apartments, homes, boats in different neighborhood and are widespread all across the world. In this research, I will take a data-driven tour of the Airbnb listings in New York; each borough has an own tale to tell tp reveal the trends, patterns, and insights that create this thriving business.
+I have used Power BI to analyze the data set which helped to gain insights about different the Airbnb properties in NYC.
